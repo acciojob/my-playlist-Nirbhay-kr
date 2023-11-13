@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+*{
+	background-color:rgb(204 , 204,204);
+}
+.player_one{
+	border:2px solid black;
+	padding:10px;
+	background-color:rgb(255 , 255 , 255);
+}
+#uli{
+	background-color:rgb(255 , 255, 255)
+}
